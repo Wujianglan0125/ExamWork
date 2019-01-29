@@ -1,0 +1,2 @@
+# ExamWork
+Individual project
